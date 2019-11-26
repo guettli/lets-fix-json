@@ -76,6 +76,11 @@ Why HCL (HashiCorp Configuration Language) was invented:
 
 Source: https://github.com/hashicorp/hcl
 
+## Related
+
+- [Let's fix JS](https://github.com/guettli/lets-fix-js)
+- https://stackoverflow.com/questions/58573784/who-is-responsible-for-updates-to-the-json-spec
+
 ## Thanks
 
 - People involved in the early discussion: https://es.discourse.group/t/json-add-datetime-timedelta-and-binary-data-types/134
