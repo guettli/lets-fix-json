@@ -47,7 +47,7 @@ Other tools which support this:
 * [PostgreSQL Date/Time](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-DATETIME-INPUT)
 * [Protobuf Timestamp](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#google.protobuf.Timestamp)
 * [Python datetime](https://docs.python.org/3/library/datetime.html#datetime-objects)
-
+* [JavaScript Temporal](https://github.com/tc39/proposal-temporal)
 
 ### add timedelta
 
