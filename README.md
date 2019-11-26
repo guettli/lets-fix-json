@@ -8,7 +8,7 @@ If the sender and the receiver agree upon some data types, it should be simple t
 
 ## Current step: Dream of fancy perfect future
 
-How do we want it to be in the future?
+How do we want JSON to be in the future?
 
 Before consensus can be reached, the dream need to be written down.
 
