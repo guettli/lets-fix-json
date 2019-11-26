@@ -76,6 +76,13 @@ Why HCL (HashiCorp Configuration Language) was invented:
 
 Source: https://github.com/hashicorp/hcl
 
+## Alternatives
+
+There are several alternatives to JSON. I think it makes more sense to upgrade JSON, than to use an alternative
+
+- [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers) supports above feature, except comments. The major drawback that you are forced to define your data in a IDL (interface definition language). Second draw back: it is binary
+- [BSON](https://en.wikipedia.org/wiki/BSON) Draw back: it is binary. It does not support timedelta.
+
 ## Related
 
 - [Let's fix JS](https://github.com/guettli/lets-fix-js)
