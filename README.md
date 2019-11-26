@@ -6,7 +6,7 @@ JSON is everywhere. A lot of specs got better during the last years (tcp, http, 
 
 If the sender and the receiver agree upon some data types, it should be simple to add new data types to JSON.
 
-## Current step: Dream of fancy perferct future
+## Current step: Dream of fancy perfect future
 
 How do we want it to be in the future?
 
