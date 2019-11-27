@@ -8,7 +8,9 @@ Roughly five years ago, in the year 2014 I though: JSON is just a temporary solu
 
 But the StackOveflow TagTrend makes it clear. JSON won't disapear and protobuf won't be widespread soon:
 
-[TagTrend JSON and alternatives](http://sotagtrends.com/?tags=protocol-buffers+json+grpc+bson+xml+yaml+messagepack+cbor+msgpack+xdr)
+[TagTrend JSON and alternatives](http://sotagtrends.com/?tags=protocol-buffers+json+grpc+bson+xml+yaml+messagepack+cbor+msgpack+xdr):
+
+![TagTrend JSON and alternatives](tag-trend-json-and-alternatives.png)
 
 ## Long term goal: pluggable data types
 
