@@ -2,6 +2,14 @@
 
 JSON is everywhere. A lot of specs got better during the last years (tcp, http, JavaScript), but up to now the fundamental important data interchange format JSON has not changed much.
 
+## Why?
+
+Roughly five years ago, in the year 2014 I though: JSON is just a temporary solution. Its wide spread usage will decrease like XML is mostly gone today. I though [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers) is the future, since it supports more data types and is faster.
+
+But the StackOveflow TagTrend makes it clear. JSON won't disapear and protobuf won't be widespread soon:
+
+[TagTrend JSON and alternatives](http://sotagtrends.com/?tags=protocol-buffers+json+grpc+bson+xml+yaml+messagepack+cbor+msgpack+xdr)
+
 ## Long term goal: pluggable data types
 
 If the sender and the receiver agree upon some data types, it should be simple to add new data types to JSON.
