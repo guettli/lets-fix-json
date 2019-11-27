@@ -49,6 +49,10 @@ Other tools which support this:
 * [Python datetime](https://docs.python.org/3/library/datetime.html#datetime-objects)
 * [JavaScript Temporal](https://github.com/tc39/proposal-temporal)
 
+Soon you can parse datetimes in JavaScript like this: `Temporal.DateTime.from("2019-11-26T14:58:54.147Z")`.
+
+But I want more. I don't want to parse strings and convert them to an object over and over again. I want to parse a JSON string and get nice high level DateTime objects immediately.
+
 ### add timedelta
 
 A timedelta datatype would be very nice.
