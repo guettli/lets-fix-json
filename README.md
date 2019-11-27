@@ -4,13 +4,15 @@ JSON is everywhere. A lot of specs got better during the last years (tcp, http, 
 
 ## Why?
 
-Roughly five years ago, in the year 2014 I though: JSON is just a temporary solution. Its wide spread usage will decrease like XML is mostly gone today. I though [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers) is the future, since it supports more data types and is faster.
+Roughly five years ago, in the year 2014 I thought: JSON is just a temporary solution. Its wide spread usage will decrease like XML. XML is mostly gone today. I thought [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers) is the future, since it supports more data types and is faster.
 
 But the StackOveflow TagTrend makes it clear. JSON won't disapear and protobuf won't be widespread soon:
 
 [TagTrend JSON and alternatives](http://sotagtrends.com/?tags=protocol-buffers+json+grpc+bson+xml+yaml+messagepack+cbor+msgpack+xdr):
 
 ![TagTrend JSON and alternatives](tag-trend-json-and-alternatives.png)
+
+This means we need to do upgrades in small steps.
 
 ## Long term goal: pluggable data types
 
