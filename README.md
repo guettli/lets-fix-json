@@ -107,3 +107,4 @@ There are several alternatives to JSON. I think it makes more sense to upgrade J
 ## Thanks
 
 - People involved in the early discussion: https://es.discourse.group/t/json-add-datetime-timedelta-and-binary-data-types/134
+- Chip Morningstar (current editor of the JSON spec)[His reply to my question](https://es.discourse.group/t/update-json-spec/128/4)
