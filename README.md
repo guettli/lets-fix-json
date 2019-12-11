@@ -96,7 +96,7 @@ Source: https://github.com/hashicorp/hcl
 
 > ...  some provision for internal object pointers, to allow non-tree data structures to be encoded ...
 
-[Chip Morningstar](https://es.discourse.group/t/update-json-spec/128/6)
+[Chip Morningstar Dec 2019 at TC39 Discussion](https://es.discourse.group/t/update-json-spec/128/6)
 
 ## Alternatives
 
