@@ -65,6 +65,8 @@ Soon you can parse datetimes in JavaScript like this: `Temporal.DateTime.from("2
 
 But I want more. I don't want to parse strings and convert them to an object over and over again. I want to parse a JSON string and get nice high level DateTime objects immediately.
 
+Proposed syntax: String prefix "dt": `dt"1985-04-12T23:20:50.52Z"`
+
 ### add timedelta
 
 A timedelta datatype would be very nice.
