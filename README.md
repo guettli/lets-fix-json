@@ -100,7 +100,7 @@ Source: https://github.com/hashicorp/hcl
 
 [Chip Morningstar Dec 2019 at TC39 Discussion](https://es.discourse.group/t/update-json-spec/128/6)
 
-### add unquotes strings.
+### add unquotes strings
 
 Up to strings need to be quoted strings.
 
