@@ -40,7 +40,7 @@ Let's influence the future **together** :-)
 
 Please create a new issue and tell us how you would like JSON to look like in the future: https://github.com/guettli/lets-fix-json/issues/new
 
-### binary data type
+### add binary data type
 
 There thousand ways to work around it. Very common is base64 encoding. But that's a useless work-around.
 
@@ -99,6 +99,20 @@ Source: https://github.com/hashicorp/hcl
 > ...  some provision for internal object pointers, to allow non-tree data structures to be encoded ...
 
 [Chip Morningstar Dec 2019 at TC39 Discussion](https://es.discourse.group/t/update-json-spec/128/6)
+
+### add property keys without quotes.
+
+Up to now property keys need to be quoted strings.
+
+For simple strings without whitespaces quoting is not necessary:
+
+```
+{foo: "bar"}
+```
+
+
+
+
 
 ## Alternatives
 
