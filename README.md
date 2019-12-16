@@ -100,14 +100,19 @@ Source: https://github.com/hashicorp/hcl
 
 [Chip Morningstar Dec 2019 at TC39 Discussion](https://es.discourse.group/t/update-json-spec/128/6)
 
-### add property keys without quotes.
+### add unquotes strings.
 
-Up to now property keys need to be quoted strings.
-
-For simple strings without whitespaces quoting is not necessary:
+Up to strings need to be quoted strings.
 
 ```
-{foo: "bar"}
+{"foo": "bar"}
+```
+
+
+For simple strings (without whitespaces or special characters) quoting is not necessary.
+This makes it simpler to write config in JSON by hand:
+```
+{foo: bar}
 ```
 
 
